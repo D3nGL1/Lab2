@@ -54,6 +54,7 @@ public class SolveMaze {
                         maze.turnRight();
                     }
                     maze.turnRight();
+                    maze.turnRight();
                     maze.move();
                 }
             }
